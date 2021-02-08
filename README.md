@@ -1,2 +1,4 @@
 # Hacker_News
-Hack or Snooze Project for Springboard, Jan 2021.
+A clone of Hacker News, called Hack or Snooze.
+Sign up, add stories to your list.
+Save your favorite stories.
